@@ -32,7 +32,13 @@ This project was built as a part of IEEE Envision 2025.
 
 ## Browser Extension
 
-The included Chrome extension allows for real-time CAPTCHA detection and solving on web pages. The extension interfaces with the trained models to provide automated CAPTCHA solutions.
+The included Chrome extension built using HTML, JS, and Manifest V3 allows for real-time CAPTCHA detection and solving on web pages. The extension interacts with the trained models to provide automated CAPTCHA solutions. When the user clicks on the image, it is sent to the model API (Hugging Face), which returns the CAPTCHA text to the extension and gets auto-filled into the text input field. 
+
+Here is a quick demo of it.
+
+https://github.com/user-attachments/assets/da045090-c4c3-4dda-ac9b-8bc1b65e7318
+
+
 
 ## Models
 
