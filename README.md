@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/da045090-c4c3-4dda-ac9b-8bc1b65e7318
 
 The project includes several neural network architectures trained on different CAPTCHA datasets:
 
-- **Baseline Models**: Traditional CNN approaches for CAPTCHA recognition
+- **Baseline Models**: Traditional CRNN approach for CAPTCHA recognition
 - **ResNet Models**: Implementations using residual networks for improved accuracy
 - **STN Models**: Models with Spatial Transformer Networks for handling distorted CAPTCHAs
 - **VAE Models**: Variational Autoencoder approach for denoising CAPTCHAs to improve recognition accuracy
@@ -66,3 +66,19 @@ CaptchaCrackNet demonstrates robust performance across a wide range of CAPTCHA s
   - ResNet architectures provide superior accuracy on complex multi-character sequences
 
 Our experimental results show that combining these approaches yields great performance even on CAPTCHAs specifically designed to defeat OCR systems, with accuracy degrading only minimally as noise levels increase.
+
+## Contributors:
+
+### Mentors:
+
+- Akhil Sakthieswaran
+- Dinesh Manideep
+
+### Mentees:
+
+- Abhyuday Hegde
+- Affan Arshad
+- Chhitanshu Shekhar
+- Tanay Nahta
+- Tapan kumar pallati
+- Vivin Dsouza
