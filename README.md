@@ -71,14 +71,6 @@ Our experimental results show that combining these approaches yields great perfo
 
 ### Mentors:
 
-- Akhil Sakthieswaran
-- Dinesh Manideep
+Was mentored by Dinesh Manideep and Akhil Sakthieswaran , Seniors from NITK
 
-### Mentees:
 
-- Abhyuday Hegde
-- Affan Arshad
-- Chhitanshu Shekhar
-- Tanay Nahta
-- Tapan kumar pallati
-- Vivin Dsouza
