@@ -62,7 +62,7 @@ CaptchaCrackNet demonstrates robust performance across a wide range of CAPTCHA s
   - Varying contrast levels
 - **Advanced CAPTCHA Handling**:
   - The STN models excel at recognizing highly warped or distorted text
-  - VAE preprocessing significantly improves recognition of noisy CAPTCHAs by effectively filtering out interference
+  - VAE preprocessing significantly improves recognition of noisy CAPTCHAs by effectively filtering out interference. In this project specifically , We chose to use standard autoencoders due to the low complexity of noise and interference in our datasets.
   - ResNet architectures provide superior accuracy on complex multi-character sequences
 
 Our experimental results show that combining these approaches yields great performance even on CAPTCHAs specifically designed to defeat OCR systems, with accuracy degrading only minimally as noise levels increase.
